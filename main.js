@@ -66,6 +66,7 @@ function calculate () {
           break;
 
           case "AC" : 
+          temporaryDisplay.innerText = "";
           display.innerText = "";
           firstNum = 0 ;
           secondNum = 0 ;
